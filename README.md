@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+our+team+experience)](https://git.io/typing-svg)
 
-![Demonstration](https://github.com/dankozz1t/Filmoteka/blob/main/src/images/demonstration/demo.jpg)
+![Demonstration](https://github.com/VitalinaKovbasiuk/IceCreamPassion/tree/main/src/images/demonstration/demo.jpg)
 
 ✔️ Ice Cream
 A short-term team project by 11 collaborators.
