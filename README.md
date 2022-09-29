@@ -1,4 +1,23 @@
-**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
+**Read in other languages: [Українська](README.uk.md), [Polski](README.pl.md).**
+
+✔️ Ice Cream
+A short-term team project by 11 collaborators.
+
+I was a Scrum  Master of the project.
+
+The website created from scratch by the prototype in Figma.
+
+The project was ready on time within 7 days.
+
+Technology used:
+
+ Javascript
+ HTML
+ CSS
+ SASS
+
+
+
 
 # Parcel template
 
